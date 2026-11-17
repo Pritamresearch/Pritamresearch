@@ -4,7 +4,7 @@ PhD Researcher | Autonomous Driving Perception | Cooperative Perception | Edge A
 Visvesvaraya PhD Fellow (MeitY, Govt. of India), School of Computer Engineering, KIIT Deemed to be University  
 Supervisor: Dr. Anjan Bandyopadhyay · PhD expected December 2026  
 
-[Google Scholar](https://scholar.google.com/citations?user=yI8jEIIAAAAJ&hl=en&oi=ao) · [ORCID]((https://orcid.org/0009-0005-7086-5661)) · [LinkedIn]((https://www.linkedin.com/in/pritamc23/)) · pritam23@ieee.org
+[Google Scholar](https://scholar.google.com/citations?user=yI8jEIIAAAAJ&hl=en&oi=ao) · [ORCID](https://orcid.org/0009-0005-7086-5661) · [LinkedIn](https://www.linkedin.com/in/pritamc23/) · pritam23@ieee.org
 
 ## Research focus
 - Real-time semantic segmentation for unstructured road scenes (heterogeneous traffic, domain shift)
